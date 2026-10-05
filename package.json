@@ -39,6 +39,7 @@
     "@vueuse/core": "15.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "fflate": "^0.8.3",
     "pinia": "4.0.3",
     "reka-ui": "2.10.5",
     "tailwind-merge": "^3.7.0",
